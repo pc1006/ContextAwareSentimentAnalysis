@@ -99,12 +99,6 @@ This project builds upon the DCASAM framework, integrating **Hierarchical Attent
 
 ---
 
-## **Contributors**
-
-- **Venkata Naga Janardhan Konasani ** - [GitHub Profile](https://github.com/konasanijanardh)
-
----
-
 ## **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
